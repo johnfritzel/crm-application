@@ -1,0 +1,20 @@
+.form-layout {
+
+border-radius: 15px;
+width: 500px;
+
+}
+
+.message-text{
+
+    color: white;    
+
+}
+
+#message-timer {
+    justify-content: center; 
+    width: fit-content; 
+    max-width: 500px;
+    margin: auto; 
+    margin-bottom: 25px;
+  }
