@@ -1,6 +1,8 @@
 # CRM Application - THRIVE CX
 
-This project is a Customer Relationship Management (CRM) application built using Django for the backend and Bootstrap and JavaScript for the frontend. It provides a user-friendly interface for managing customer data and interactions.
+!["Application Screenshot"](screenshot.png)
+
+This is a Customer Relationship Management (CRM) application built using Django for the backend and Bootstrap and JavaScript for the frontend. It provides a user-friendly interface for managing customer data and interactions.
 
 
 ### Features
